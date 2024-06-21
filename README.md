@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQEnvSmio6NXNg/profile-displaybackgroundimage-shrink_350_1400/0/1690714029396?e=1724284800&v=beta&t=oO_GtfdPsYxUuQnzwglElcZga4-na30rvax9nZf-4zA)
 <h1 align="center">Hi 👋, I'm Irshath Azeem</h1>
-<h3 align="center">A passionate flutter developer,Software developer</h3>
+<h3 align="center">A passionate flutter developer and Software developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshath19&label=Profile%20views&color=0e75b6&style=flat" alt="irshath19" /> </p>
 
