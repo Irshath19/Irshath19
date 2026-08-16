@@ -17,7 +17,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Hacker_Irshath?t=AGxpheLgfzw9YkMU_rPauw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hacker_irshath" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/irshath-azeem19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irshath azeem" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/irshathazeem19/" target="_blank" rel="noreferrer">
+  <img
+    align="center"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    alt="Irshath Azeem LinkedIn"
+    height="30"
+    width="40"
+  />
+</a>
 
 <h3 align="left">Languages, Frameworks & AI Stack:</h3>
 
