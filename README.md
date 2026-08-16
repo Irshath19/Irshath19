@@ -18,8 +18,6 @@
 <p align="left">
 <a href="https://x.com/Hacker_Irshath?t=AGxpheLgfzw9YkMU_rPauw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hacker_irshath" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/irshath-azeem19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irshath azeem" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__irshath_17_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__irshath_17_" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages, Frameworks & AI Stack:</h3>
 
